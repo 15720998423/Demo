@@ -52,7 +52,7 @@ namespace Demo
             //baozi.Behavior();
             #endregion
 
-            #region
+            #region 复制值类型的变量和类
             int i = 42;
             int copyi=i;
             i++;
